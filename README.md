@@ -13,7 +13,7 @@
 <td valign="top">
 Goal View in Desktop:
 
-![image](https://raw.githubusercontent.com/FabianCruz-0/Opinions-Web-Design/master/design/desktop-design.jpg)
+![image](https://raw.githubusercontent.com/FabianCruz-0/Opinions-Web-Design/master/goal-design/desktop-design.jpg)
 </td>
 <td valign="top">
 My own view in Desktop:
@@ -25,7 +25,7 @@ My own view in Desktop:
 <td valign="top">
 Goal View in mobile:
 
-![image](https://raw.githubusercontent.com/FabianCruz-0/Opinions-Web-Design/master/design/mobile-design.jpg)
+![image](https://raw.githubusercontent.com/FabianCruz-0/Opinions-Web-Design/master/goal-design/mobile-design.jpg)
 </td>
 <td valign="top">
 My own view in Mobile:
