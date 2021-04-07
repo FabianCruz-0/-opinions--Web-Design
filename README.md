@@ -3,7 +3,7 @@
 
 
 ###### You can see my page here: https://opinions-web-design.netlify.app/.
-### The challenge was to replicate the following web page design:
+### The challenge was to replicate the following web page design <i>(click images to see better)</i>:
 
 
 <div align=center>
